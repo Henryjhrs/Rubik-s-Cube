@@ -11,7 +11,7 @@ export const DRAG_THRESHOLD = 0.16;
 
 // Berapa radian putaran per satuan dunia pergeseran mouse saat drag langsung
 // di atas kubus. Angka lebih besar = lapisan terasa lebih "cepat" mengikuti mouse.
-export const DRAG_SENSITIVITY = 1.7;
+export const DRAG_SENSITIVITY = 0.9;
 
 // Durasi (ms) animasi "snap" ke kelipatan 90 derajat terdekat setelah mouse dilepas.
 export const SNAP_DURATION = 190;
